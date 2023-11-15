@@ -1,6 +1,6 @@
 # Regression-sprint-2307FTDS-Team-DN1
 In this Repository, you will find all of our workings from the past 4 weeks relating to our Regresion Sprint Predict. 
-Our final notebook can be found in the main branch and covers the following: 
+Our final notebook can be found in the main branch under the Advanced-Regression-Starter-Data folder and covers the following: 
           
           - 1. analyse the supplied data;
           - 2. identify potential errors in the data and clean the existing data set;
